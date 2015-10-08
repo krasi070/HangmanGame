@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\00.TeamworkProject\AlphaVersionOfTheGame\AlphaVersionOfTheGame\bin\Debug\AlphaVersionOfTheGame.exe.config
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\00.TeamworkProject\AlphaVersionOfTheGame\AlphaVersionOfTheGame\bin\Debug\AlphaVersionOfTheGame.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\00.TeamworkProject\AlphaVersionOfTheGame\AlphaVersionOfTheGame\bin\Debug\AlphaVersionOfTheGame.pdb
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\00.TeamworkProject\AlphaVersionOfTheGame\AlphaVersionOfTheGame\obj\Debug\AlphaVersionOfTheGame.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\00.TeamworkProject\AlphaVersionOfTheGame\AlphaVersionOfTheGame\obj\Debug\AlphaVersionOfTheGame.exe
-D:\SoftUni\01.Fundamental Level\01.Advanced C#\00.TeamworkProject\AlphaVersionOfTheGame\AlphaVersionOfTheGame\obj\Debug\AlphaVersionOfTheGame.pdb
